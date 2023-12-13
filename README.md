@@ -1,2 +1,3 @@
 # Mantid
-A command line tool for working with MantisBt
+
+A command line tool for working with MantisBt.
